@@ -1,0 +1,6 @@
+Dari chatgpt:
+1.buatkan kode java nya menurut soal yang saya berikan
+2.apakah itu sudah sesuai dengan output yang saya berikan
+3.buatkan sesuai output yang saya berikan
+4.buatkan persis seperti ini
+5.nasi padangnya mana dan porsi,harga,total harus sama dan total pembayaran dengan yang saya berikan
