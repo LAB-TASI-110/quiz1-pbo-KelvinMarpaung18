@@ -1,0 +1,10 @@
+Dari chatgpt:
+1.berikan contoh sistem laundry yang bebasis java 
+2.nah hapuskan berat cucian,dan pilih layanan tambahkan jumlah pakaian yang mau di cuci dan buat hari dan tanggal nya 
+3.tidak ada total bayar buatkan dalam 1 code java aja
+4.hari dan tanggal saya sendiri kan yang ketik nanti di programnya ?
+5.tidak usah ada struk laundry
+6.sama buatkan nama asrama
+7.ubah nama pelanggan jadi nama mahasiswa
+8.jumlah pakaian itu bisa kita buatkan jenis pakaiannya juga ? seperti 1 baju gitu ?
+9.tidak usah ada daftarnya gitu langsung dari jumlah pakaian saja nah disi tu di satukan
