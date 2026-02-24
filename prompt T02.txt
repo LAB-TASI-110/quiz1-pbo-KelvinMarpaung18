@@ -1,0 +1,5 @@
+Dari chatgpt:
+1.Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta buatkan kode java dari soal yang saya berikan
+2.bisa gak import java yang line pertama tidak ada dan langsung ke line kedua 
+3.ada error dari kode nya bagusin dulu 
+4.apakah kode nya berjalan ?
